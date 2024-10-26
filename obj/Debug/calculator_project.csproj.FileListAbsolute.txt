@@ -1,0 +1,14 @@
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.Form1.resources
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.Properties.Resources.resources
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\calculator_project\calculator_project\bin\Debug\calculator_project.exe.config
+C:\Users\yasin\source\repos\calculator_project\calculator_project\bin\Debug\calculator_project.exe
+C:\Users\yasin\source\repos\calculator_project\calculator_project\bin\Debug\calculator_project.pdb
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.exe
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.pdb
+C:\Users\yasin\source\repos\calculator_project\calculator_project\bin\Debug\calculator_project.exe.manifest
+C:\Users\yasin\source\repos\calculator_project\calculator_project\bin\Debug\calculator_project.application
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.exe.manifest
+C:\Users\yasin\source\repos\calculator_project\calculator_project\obj\Debug\calculator_project.application
